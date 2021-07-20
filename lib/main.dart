@@ -1,5 +1,8 @@
+import 'package:clone_monthly_expanse_view/categories_row.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+
+import 'pie_chart_view.dart';
 
 void main() {
   runApp(MyApp());
@@ -46,14 +49,8 @@ class MonthlyExpensesView extends StatelessWidget {
                     Expanded(
                         child: Row(
                       children: [
-                        Expanded(
-                          child: Placeholder(),
-                          flex: 3,
-                        ),
-                        Expanded(
-                          child: Placeholder(),
-                          flex: 4,
-                        ),
+                        CategoriesRow(),
+                        PieChartView(),
                       ],
                     )),
                   ],
