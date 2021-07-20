@@ -1,6 +1,14 @@
 # clone_monthly_expanse_view
 
-A new Flutter project.
+The codes of clone coding about Flutter Liquid Swipe Animation at 'CodeXpression' Youtube channel
+
+![image](https://user-images.githubusercontent.com/36909992/126255957-3a6ed8a2-150d-4702-aeae-76820ca00e6f.png)
+
+Youtube : https://www.youtube.com/watch?v=rkOc8WbgPqw
+
+GitHub : https://github.com/happyharis/neumorphic
+
+Design : https://dribbble.com/shots/9084817-Conceptual-Dashboard-Screen
 
 ## Getting Started
 
